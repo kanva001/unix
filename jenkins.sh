@@ -1,4 +1,5 @@
-
+#This is a unix shell script to install Jenkins with a single command saveing manual steps and time
+#Copy this to a file on any unix machine and run ./jenkins.sh from the command lline
 
 # install java
 sudo apt install openjdk-17-jre-headless -y
